@@ -1,3 +1,5 @@
+//2.1 in book
+
 #include <cmath>
 #include "nrx/NR.H"
 #include <iostream>

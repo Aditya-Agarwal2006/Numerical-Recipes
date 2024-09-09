@@ -1,0 +1,9 @@
+Begin numerical recipes in C++ eigenvalue decomposition
+End decomposition: time  = 2.353
+Maximum error in product = 8.16014e-014
+Orthogonality check      = 3.55271e-015
+Begin newmat eigenvalue decomposition
+End decomposition: time  = 1.882
+Maximum error in product = 1.07359e-013
+Orthogonality check      = 3.10862e-015
+Maximum difference in eigenvalues = 1.95399e-013
